@@ -136,4 +136,4 @@ Smart budget planner with multiple currencies in C
     }
 
     return 0;
-}
+    }
